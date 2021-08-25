@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC | FOXTK |  |
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=kv_hci_lb4k
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/channel/UCJe13zu6MyE6Oueac41KAqg/live
